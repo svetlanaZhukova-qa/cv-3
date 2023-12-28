@@ -1,0 +1,20 @@
+h1 {
+	font-size: 60px;
+	color :red;
+	font-family:Geneva
+}
+	
+h2 {
+	font-size: 40px;
+	color :blue;
+	font-family:geneva;
+	font-style: italic;
+	margin-left: 200px
+
+}
+
+footer {
+	font-size: 40px;
+	color :violet;
+	font-family:Geneva
+}
